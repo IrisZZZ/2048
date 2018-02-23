@@ -131,3 +131,9 @@ td {
 .normal {
   background-color: pink !important;
 }
+.small-padding{
+  padding-top: 20px;
+}
+.a{
+  text-decoration: none;
+}
